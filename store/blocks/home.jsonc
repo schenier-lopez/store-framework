@@ -4,6 +4,7 @@
       "rich-text",
       "info-card#button-right"
     ]
+
   },
   "rich-text": {
       "props":{
